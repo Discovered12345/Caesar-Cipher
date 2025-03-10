@@ -1,2 +1,2 @@
 # Vigen-re-Cipher
-Vigenère-Cipher Encoder Using Python
+Caesar-Cipher Encoder Using Python
